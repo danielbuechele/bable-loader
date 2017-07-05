@@ -1,0 +1,16 @@
+{
+	"name": "bable-loader",
+	"version": "1.0.0",
+	"description": "It's a trap!",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrBoolean/bable-loader.git"
+	},
+	"keywords": ["webpack", "loader", "empty"],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MrBoolean/bable-loader/issues"
+	},
+	"homepage": "https://github.com/MrBoolean/bable-loader#readme"
+}
